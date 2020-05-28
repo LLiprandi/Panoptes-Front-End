@@ -131,7 +131,7 @@ export default {
     }
   },
   privacy: {
-    title: 'Zooniverse User Agreement and Privacy Policy',
+    title: 'Contrat d’utilisation et politique de confidentialité de Zooniverse',
     userAgreement: {
       summary: '## User Agreement\n**Summary**\n\nThe Zooniverse is a suite of citizen science projects operated by research groups in several institutions which support scientific research by involving members of the public - you - in the processes of analyzing and discussing data. Data from these projects is used to study online community design and theory, interface design, and other topics. This document describes what will happen to your contributions if you choose to contribute and what data we collect, how we use it and how we protect it.',
       contribution: '**What you agree to if you contribute to the Zooniverse**\n\nProjects involving the public are needed to enable researchers to cope with the otherwise unmanageable flood of data. The web provides a means of reaching a large audience willing to devote their free time to projects that can add to our knowledge of the world and the Universe.\n\nThe major goal for this project is for the analyzed data to be available to the researchers for use, modification and redistribution in order to further scientific research. Therefore, if you contribute to the Zooniverse, you grant us and our collaborators permission to use your contributions however we like to further this goal, trusting us to do the right thing with your data. However, you give us this permission non-exclusively, meaning that you yourself still own your contribution.\n\nWe ask you to grant us these broad permissions, because they allow us to change the legal details by which we keep the data available; this is important because the legal environment can change and we need to be able to respond without obtaining permission from every single contributor.\n\nFinally, you must not contribute data to the Zooniverse that you do not own. For example, do not copy information from published journal articles. If people do this, it can cause major legal headaches for us.',
@@ -151,12 +151,12 @@ export default {
       furtherInfo: '**Further information and requests**\n\nThe Data Controller is the Department of Physics, University of Oxford. For a copy of the information we hold on you please contact the project team at the address below:\n\nProfessor Chris Lintott\nOxford Astrophysics\nDenys Wilkinson Building\nKeble Road\nOxford, OX1 3RH\nUnited Kingdom'
     },
     youthPolicy: {
-      title: 'Advice for Volunteers Under 16 Years Old and Their Parent/Guardian',
+      title: 'Conseil aux volontaires ayant moins de 16 ans et à leurs parents/garants',
       content: 'Please note that it is the parents’/guardians’ responsibility to explain the user agreement and privacy policy in simple terms to their child if signing up under 16s. There is no minimum age for signing up children as Zooniverse would like to encourage public engagement with research for all ages, though the platform may be more suitable for older children. Parents and guardians must supervise children if they are contributing to any message boards.'
     }
   },
   security: {
-    title: 'Zooniverse Security',
+    title: 'sécurité de Zooniverse',
     intro: 'The Zooniverse takes very seriously the security of our websites and systems, and protecting our users and their personal information is our highest priority. We take every precaution to ensure that the information you give us stays secure, but it is also important that you take steps to secure your own account, including:\n\n* Do not use the same password on different websites. The password you use for your Zooniverse account should be unique to us.\n* Never give your password to anyone. We will never ask you to send us your password, and you should never enter your Zooniverse password into any website other than ours. Always check your browser\'s address bar to make sure you have a secure connection to _www.zooniverse.org_.\n\nFor general advice and information about staying safe online, please visit:\n\n* [Get Safe Online](https://www.getsafeonline.org)\n* [Stay Safe Online](https://www.staysafeonline.org)\n* [US-CERT - Tips](https://www.us-cert.gov/ncas/tips)',
     details: '## Reporting Security Issues\n\nThe Zooniverse supports [responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) of vulnerabilities. If you believe you have discovered a security vulnerability in any Zooniverse software, we ask that this first be reported to [security@zooniverse.org](mailto:security@zooniverse.org) to allow time for vulnerabilities to be fixed before details are published.\n\n## Known Vulnerabilities and Incidents\n\nWe believe it is important to be completely transparent about security issues. A complete list of fixed vulnerabilities and past security incidents is given below:\n\n* December 11, 2018: [Cross-Site Scripting Vulnerability on Project Page\'s External Links](https://blog.zooniverse.org/2018/12/20/fixed-cross-site-scripting-vulnerability-on-project-pages-external-links/)\n\n* June 21, 2018: [Cross-site scripting on project home pages](https://blog.zooniverse.org/2018/07/03/fixed-cross-site-scripting-vulnerability-on-project-home-pages/)\n\nNew vulnerabilities and incidents will be announced via the [Zooniverse blog in the "technical" category](http://blog.zooniverse.org/category/technical/).'
   },
@@ -297,11 +297,11 @@ export default {
       },
       content: {
         header: {
-          showAll: 'Zooniverse Team'
+          showAll: 'Equipe Zooniverse'
         },
         adamMcMaster: {
-          title: 'Infrastructure Engineer',
-          bio: `Adam is responsible for managing the Zooniverse's web hosting infrastructure.,
+          title: 'Ingénieur d architecture',
+          bio: `Adam est résponsable du management de la plateforme d'acceuil web de Zooniverse.,
           He has a computer science degree and has worked in web hosting and development for many years.
           He's also working on a degree in astronomy with the OU.`
         },
@@ -312,24 +312,24 @@ export default {
           is a Dad of three, an improv player, a board gamer, and is running five half-marathons in 2016.`
         },
         alexWeiksnar: {
-          title: 'Developer',
+          title: 'Développeur',
           bio: `Alex previously attended University of Miami, where he studied Psychology,
-          Biology, and English. Alex enjoys reading, coding, and sailing in his free time.`
+          Biology, and English. Alex aime lire coder et faire du bateau pendant son temps libre.`
         },
         aliSwanson: {
-          title: 'Researcher',
+          title: 'Chercheur',
           bio: `Ali spent most of her PhD chasing lions around the Serengeti. She finished
           her PhD in Ecology, Evolution, and Behavior at the University of Minnesota in 2014,
           and joined the Zooniverse as a Postdoc in Ecology and Citizen Science.`
         },
         amyBoyer: {
-          title: 'Developer',
+          title: 'Développeur',
           bio: `Amy has been a Zooniverse developer at the Adler since November 2015. She holds a BS and
           MS in computer science and has over a decade of industry experience. An aspiring astronomer as
           a child, she couldn't be happier to have landed here.`
         },
         andreaSimenstad: {
-          title: 'Developer',
+          title: 'Développeur',
           bio: `Andrea joined Zooniverse as a developer at the University of Minnesota in 2015. When she is not captivated by code, she can be found enjoying snow on skis and exploring lakes by kayak. She graduated from Carleton College with a degree in Cognitive Science.`
         },
         arfonSmith: {
